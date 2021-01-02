@@ -2,4 +2,4 @@
 
 <p>Consumindo API pokedex com </p>
 
-<img src="./img/pokedex.png" width=" 30px">
+<img src="./img/pokedex.png" width=" 500px">
